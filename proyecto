@@ -1,0 +1,212 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>SistemaseikenJuanGarza BusinessDeveloper</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body id="top">
+
+		<!-- Barra izquierda -->
+			<header id="header">
+				<!-- Tu imagen -->
+				<a href="#" class="image avatar"><img src="https://raw.githubusercontent.com/sistemaseikenjuangarza/sistemaseikenjuangarza.github.io/master/images/juan.jpg" alt="" /></a>
+				<!-- Tu perfil -->
+				<h1><strong>Juan Manuel Garza Martinez</strong>, Business Developer.<br />
+			</header>
+
+		<!-- Contenido principal -->
+			<div id="main">
+					<section id="one">
+						<header class="major">
+							<!-- Tu perfil - Título -->
+							<h2>Juan Manuel Garza - Business Developer.</h2>
+						</header>
+						<h1>Datos Complementarios
+  </h1>
+	</h1>
+				
+				<p><h2>
+				Libros recomendados:
+				</h2<
+				
+				
+				</p>
+				
+  <img alt="Libros recomendados" width=200
+       src="cerebro.jpg"
+       </img>
+  
+       <p>Probablemente uno de mis mejores libros 
+         <br>Habla sobre las funciones cognitivas.</br>
+  
+  <p> Entre otros libros estan:</p>
+  
+  <h2> Libros de referencia:</h2>
+  
+  <ul>
+    
+    <li> Usar el Cerebro</li>
+    <li> De animales a Dioses</li>
+    <li> Pensar rápido, pensar despacio</li>
+    
+  
+      
+  
+    
+  </ul>
+  
+  
+  </p>					
+						
+						
+						
+  <img alt="A picture of Juan Manuel" width=300
+       src="https://raw.githubusercontent.com/sistemaseikenjuangarza/sistemaseikenjuangarza.github.io/master/images/juan.jpg"
+       </img>
+  
+       <p>Hola Soy Juan Manuel estoy comentando sobre un nuevo proyecto 
+         <br>Empezamos con lo siguiente.</br>
+  
+  <p> Asi que comencemos con esta aventura</p>
+  
+  <h2> Los Temas a tratar son los siguientes:</h2>
+  
+  <ul>
+    
+    <li> La Economía del país</li>
+    <li> Los Tratados regulatorios</li>
+    <li> Finanzas económicas</li>
+    
+    <p>Come say hello on twitter at <a href="https://twitter.com/sistemaseiken">@Sistemaseiken</a>
+      
+    </p>
+    
+  </ul>
+  
+  
+  </p>
+				<p>
+					<h3>Las Claves del Secreto Económico
+				</h3>
+				<br>
+		El supuesto esencial de la teoría económica tradicional es que la toma de decisiones económicas <br>
+		de los seres humanos es completamente racional, y que siempre actuamos de manera tal de maximizar el <br>
+		propio interés. Sin embargo, hoy sabemos que este modelo ha sido fuertemente cuestionado ya que no explica <br>
+		cómo actuamos y decidimos en la realidad. Los seres humanos muy a menudo no tomamos decisiones económicas <br>
+		equilibrando racionalmente el riesgo y la recompensa y muchas veces nuestras decisiones se dan con una <br>
+		racionalidad limitada, influenciadas por el contexto, por los sesgos cognitivos y por las emociones.</br>
+		<br></br>
+	
+	<p><h1>Decidimos fundamentalmente con dos sistemas, uno automático, que no requiere el esfuerzo mental que usamos la mayor<br>
+	parte del día y compartimos con otras especies y otro, que es específico de los seres humanos y requiere esfuerzo mental. <br>
+	Este último sistema más lento es el que nos permite razonar, demorar la gratificación, controlarnos y evolutivamente se desarrolló<br>
+	más tardíamente.
+	</h1>
+	</p>
+				 
+				</p>
+						<!-- Tu perfil - Descripción -->
+						<p>A lo largo de mi carrera he construido negocios de alto impacto.</p>
+						<ul class="actions">
+							<li><a href="https://co.linkedin.com/in/jessica-yellow-64b053123" target="_blank" class="button">Conoce más de mi trabajo.</a></li>
+						</ul>
+						<ul class="actions">
+							<li><a href="https://co.linkedin.com/in/jessica-yellow-64b053123" target="_blank" class="button">Conoce más de mi trabajo.</a></li>
+						</ul>
+						<ul class="actions">
+							<li><a href="https://co.linkedin.com/in/jessica-yellow-64b053123" target="_blank" class="button">Conoce más de mi trabajo.</a></li>
+						</ul>
+					</section>
+
+					<!-- Tu portafolio - Lo más importante -->
+					<section id="two">
+						<h2>Mejores experiencias</h2>
+						
+						<div class="row">
+							
+							<article class="6u 12u$(xsmall) work-item">
+								<!-- Tu portafolio - ¿Hacia dónde los vas a mandar? -->	
+								<a href="http://platzi.com" target="_blank" class="image fit thumb">
+								<!-- Tu portafolio - Su imagen -->	
+									<img src="http://miguelnieva.com/content/images/2015/09/11885383_916947578373774_670895181705337546_n.jpg"/></a>
+								<!-- Tu portafolio - Título -->	
+								<h3>Formo parte de la Comunidad Platzi.</h3>
+								<!-- Tu portafolio - Descripción -->	
+								<p>La comunidad profesional web más reconocida del mundo.</p>
+							</article>
+							
+							
+							<article class="6u 12u$(xsmall) work-item">
+								<!-- Tu portafolio - ¿Hacia dónde los vas a mandar? -->	
+								<a href="http://platzi.com" target="_blank" class="image fit thumb">
+								<!-- Tu portafolio - Su imagen -->	
+									<img src="https://raw.githubusercontent.com/sistemaseikenjuangarza/sistemaseikenjuangarza.github.io/master/images/platzi.jpg"/></a>
+								<!-- Tu portafolio - Título -->	
+								<h3>Formo parte de la Comunidad Platzi.</h3>
+								<!-- Tu portafolio - Descripción -->	
+								<p>La comunidad profesional web más reconocida del mundo.</p>
+							</article>
+							
+							<article class="6u 12u$(xsmall) work-item">
+								<!-- Tu portafolio - ¿Hacia dónde los vas a mandar? -->	
+								<a href="http://platzi.com" target="_blank" class="image fit thumb">
+								<!-- Tu portafolio - Su imagen -->	
+									<img src="https://raw.githubusercontent.com/sistemaseikenjuangarza/sistemaseikenjuangarza.github.io/master/images/platzi.jpg"/></a>
+								<!-- Tu portafolio - Título -->	
+								<h3>Formo parte de la Comunidad Platzi.</h3>
+								<!-- Tu portafolio - Descripción -->	
+								<p>La comunidad profesional web más reconocida del mundo.</p>
+							</article>
+							<article class="6u$ 12u$(xsmall) work-item">
+								<a href="https://medium.com/@jessicayellow/how-do-i-deliver-a-new-content-marketing-strategy-f3a82be2c312#.9ut6yqpy3" target="_blank" class="image fit thumb"><img src="https://cdn-images-1.medium.com/max/600/1*VaPJeQUEjZEBfq-q_Eif3A.jpeg" alt="" /></a>
+								<h3>Escribo en Medium.</h3>
+								<p>Escribo como mejorar los negocios de tu empresa.</p>
+							</article>
+						</div>
+					</section>
+			</div>
+
+		<!-- Footer -->
+		
+		<!-- Tus redes sociales -->	
+			<footer id="footer">
+				<ul class="icons">
+					<!-- Conoce todos los íconos en http://fontawesome.io/icons/ -->
+					<!-- Solamente cambias en class="icon fa-IconoQueTuQuieras" -->
+					<li><a href="https://www.facebook.com/?react=AQBiUvlaBsoLxr_L" target="_blank" class="icon fa-facebook-square"><span class="label">Facebook</span></a></li>
+					<li><a href="https://twitter.com/sistemaseiken" target="_blank" class="icon fa-twitter"><span class="label">twitter</span></a></li>
+					<li><a href="https://growthhackers.com/members/jessicayellow" target="_blank" class="icon fa-bar-chart"><span class="label">Growth Hackers</span></a></li>
+					<li><a href="mailto:jessicayellow.marketing@gmail.com" target="_blank" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+				</ul>
+				
+		<!-- El área final -->				
+				<ul class="copyright">
+					
+					<li>&copy; Mi Comunidad</li><li><a href="http://platzi.com" target="_blank">Platzi</a></li><li>Diseño: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</footer>
+
+		<!-- Scripts + Google Analytics -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114207400-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114207400-1');
+</script>
+
+
+
+	</body>
+</html>
